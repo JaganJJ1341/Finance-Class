@@ -1,0 +1,52 @@
+https://www.programiz.com/c-programming/examples/pyramid-pattern
+http://programmingandaptitude.blogspot.com/2015/07/zoho-interview-question-and-answer.html
+
+https://javaconceptoftheday.com/number-pattern-programs-in-java/
+
+https://www.tutorialspoint.com/online_c_compiler.php
+https://www.tutorialspoint.com/compile_cpp_online.php
+
+https://www.geeksforgeeks.org/c-language-2-gq/arrays-pointers-gq/
+
+https://www.sanfoundry.com/c-quiz-questions-pointers-arrays/
+https://www.sanfoundry.com/c-programming-examples-arrays/
+
+
+Aptitude Basics:
+http://programmingandaptitude.blogspot.com/2015/06/aptitude-basics.html
+
+
+C Aptitude:
+https://www.quora.com/What-are-the-frequently-asked-aptitude-and-C-questions-by-ZOHO-in-the-first-round
+
+http://techpreparation.com/aptitute-questions/c-aptitude-questions1.htm#.W0xpNntKgdU
+http://techpreparation.com/aptitute-questions/c-aptitude-question1.htm#.W0xpSHtKgdU
+
+
+I/P:
+----
+
+BASIC
+
+O/P:
+----
+
+    S
+   SI
+  SIC
+ SICA
+SICAB
+
+
+===================================================================================
+
+Plan:
+-----
+
+Monday 		0723 -	C Aptitude
+Tuesday 	0724 -	Pattern Programs - 1
+Wednesday 	0725 -	Pattern Programs - 2
+Thursday 	0726 -	Basics Refresh
+Friday 		0727 -  C concepts for aptitude / general aptitude
+
+
